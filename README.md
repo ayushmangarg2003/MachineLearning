@@ -1,1 +1,1 @@
-## I keep all my files and datasets while learning ML in this repo
+I use this repository to managa all the files and datasets I use while learning ML
